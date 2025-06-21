@@ -1,0 +1,19 @@
+{
+  "name": "pnk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "module.mjs",
+  "scripts": {
+    "start": "node module.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },  "dependencies": {
+
+    "knex": "^3.1.0",
+    "pg": "^8.16.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type":"module"
+}
+
